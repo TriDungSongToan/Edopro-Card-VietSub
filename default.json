@@ -1,0 +1,68 @@
+{
+  "welcome": [
+    "Xin chào, ta là YGOVN Bot, ta là một linh hồn bài thủ huyền thoại đã ngủ quên từ rất lâu."
+  ],
+  "deckerror": [
+    "Xin lỗi, dường như ta đã có quá nhiều lá bài {0} trong Bộ Bài của ta."
+  ],
+  "duelstart": [
+    "Đến giờ đấu bài rồi! Bắt đầu thôi!",
+    "Chúc ngươi may mắn, và hãy cố gắng chứng minh ngươi xứng đáng là đối thủ của ta!"
+  ],
+  "newturn": [
+    "Đến lượt của ta! Rút bài!",
+    "Sức mạnh tình bạn, xin hãy giúp ta. Rút bài!",
+    "Ta luôn tin vào trái tim của những lá bài! Rút!"
+  ],
+  "endturn": [
+    "Ta kết thúc lượt của mình.",
+    "Lượt của ta đã kết thúc.",
+    "Đến lượt của ngươi."
+  ],
+  "directattack": [
+    "{0}, hãy tấn công trực tiếp!",
+    "{0}, hãy tấn công trực tiếp bọn họ!",
+    "Ngươi đã không còn gì để phòng thủ. Tấn công, {0}!",
+    "{0}, hãy tấn công vào điểm gốc của bọn họ!",
+    "{0}, hãy tấn công trực tiếp điểm gốc của bọn họ cho ta!",
+    "Hỡi {0}, bầy tôi trung thành của ta! Hãy giải phóng sức mạnh của ngươi đi!",
+    "Lá bài {0} của ta sẽ phá hủy một lượng lớn điểm gốc của ngươi!",
+    "Hãy xem sức mạnh thật sự của lá bài {0} của ta đây!",
+    "Ngươi đừng hòng cản được ta! {0}, tấn công hắn cho ta!"
+  ],
+  "attack": [
+    "{0}, hãy tấn công lá bài {1} đó của bọn họ!",
+    "{0}, phá hủy lá bài {1} đó của bọn họ cho ta!",
+    "Lá bài {0} sẽ hủy diệt lá bài {1} của ngươi!",
+    "Lá bài {1} đó của ngươi chẳng là gì so với lá bài {0} đầy sức mạnh của ta!",
+    "{0}, bầy tôi của ta! Hãy giải phóng toàn bộ sức mạnh của ngươi lên lá bài {1} đó của bọn họ!"
+  ],
+  "ondirectattack": [
+    "Aaaaa...!",
+    "Ta không sợ lá bài {0} đó của ngươi đâu!",
+    "Ngươi nghĩ bấy nhiêu đó là đã đủ để đánh bại được ta sao?",
+    "Đòn tấn công của ngươi chỉ làm ta bị xướt nhẹ thôi! Hahaha"
+  ],
+  "facedownmonstername": "monster",
+  "activate": [
+    "Ta kích hoạt lá bài {0}!",
+    "Hãy xem đây! Ta sẽ sử dụng lá bài {0}."
+  ],
+  "summon": [
+    "Ta triệu hồi lá bài {0} yêu thích của ta!",
+    "Đến đây nào, {0}! Quái thú yêu thích của ta",
+    "Xuất hiện nào, {0}! Bầy tôi trung thành của ta",
+    "{0}, hãy hiện thân đi hỡi quái thú của ta!"
+  ],
+  "setmonster": [
+    "Ta đặt một quái thú ở thế úp mặt.",
+    "Bất kể quái thú mà ta đã úp có thể là gì thì ngươi cũng nên cẩn thận đấy?",
+    "Hãy tấn công quái thú ta đã úp đi! Ta thách ngươi đấy!"
+  ],
+  "chaining": [
+    "Không nhanh thế đâu! Ta kích hoạt lá bài {0}!",
+    "Trước khi ngươi làm thế, ta sẽ kích hoạt lá bài {0}!",
+    "Ngươi có cố gắng đấy, nhưng ta lại có lá bài {0}!",
+    "Hãy khoan đã, ta kích hoạt lá bài {0}! Ngươi không ngờ tới đuang không?"
+  ]
+}
